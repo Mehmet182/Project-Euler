@@ -56,4 +56,4 @@ def find(num):
         
 
 #find(10001)
-print(f"Çalışma süresi: {calişma_suresi(find, 10001)} saniye")
+print(f"Çalişma süresi: {calişma_suresi(find, 10001)} saniye")
